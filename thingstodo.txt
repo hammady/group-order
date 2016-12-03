@@ -1,0 +1,92 @@
+Things to do:
+DONE 1- Navigation
+DONE 2- Display totals in summary
+DONE 3- Remove vieworder page
+DONE 4- Allow recalculation of delivery cache
+DONE 6- Create SVN repository and add files to it
+DONE 7- Generate SQL scripts and put it in a file and add it to repository
+DONE 8- Order ID must be validated
+DONE 9- When creating a new order, a shop must be chosen
+DONE 10- Remove unnecassary pages
+DONE 13- Add latest update time to menus
+DONE 15- Add Statistics
+DONE 16- Data exporter to export shops and menus as INSERT statments
+DONE 17- Adjust the encoding of arabic menus to Arabic
+DONE 19- Put proper log in and log out links
+DONE 20- Add users
+DONE 22- Adjust date format
+DONE 23- Add settings table with one row only
+DONE 24- Enable users to insert missing meals
+DONE 25- Use Tahoma font in pages that can have arabic text
+DONE 26- Add order progress page
+DONE 27- Add time created to orders
+DONE 28- Notify users by calling IP messenger
+DONE 29- Put the form of new orders in a table
+DONE 30- Add vertical list of options to the left
+DONE 31- Add user sign up page (with admin approval)
+DONE 32- Sanitize inputs
+DONE 33- Check CakePHP
+DONE 34- Redirect user after logging in or signing up
+DONE 35- Add options to hide and delete old orders
+DONE 36- Add support to many phone numbers for the same shop
+DONE 37- Disable the summary page until the order is closed
+DONE 38- Add shop name, creator name, and order subject to notification message
+DONE 40- Add links to manage order from progress and vice versa
+DONE 41- Add information pages to show shops and menus independently of any order
+DONE 42- Page for admins to manage users
+DONE 43- Add users classes
+DONE 46- Use the frame in all the pages
+DONE 48- Add Forgot your password
+DONE 53- Enhancing the interface of the order system
+DONE 56- Redirect users to summary page after the order is closed. (from addOrder.php or close.php)
+DONE 57- Welcome page
+DONE 58- Validate order system against XHTML 1.1
+DONE 61- Give a link in Manage order and menus to the path of the photo menu.
+DONE 63- Make options what to receive for users.
+DONE 64- Divid the delivery cache on users according to their order value.
+DONE 66- Add user to the meals table to know who added this meal.
+DONE 68- Display old orders in pages.
+DONE 69- Add number of pages shown in user options.
+DONE 70- Disable user selection when creating new orders. This means notifications will be sent to all users.
+DONE 71- Display the menu for every user as his most ordered meals are shown first.
+DONE 72- Display meals ordered by the user in the options page.
+DONE 74- Add option to check if saeed will manage the order or not.
+DONE 75- Remove users to choose when creating a new order.
+DONE 76- Give moderators the ability to change management option of an order.
+DONE 77- Give moderators the ability to change default shop.
+DONE 80- Unpay paid order transactions.
+DONE 81- Show and edit shop's data like delivery.
+DONE 82- Show users' balances and sum of transactions in order to compare them.
+DONE 88- Encrypt user passwords in database.
+CANCELED 5- Enter menus data
+CANCELED 12- Arabization
+CANCELED 45- Edit the shops and menus page to allow changing IDs without corrupting old data
+CANCELED 47- Create a site map of the important pages
+CANCELED 49- Add warning that this order system is not a joke!. Some clicks can cause more food to be ordered and money to be paid!
+CANCELED 51- Add moderator approval to new meals and date of approval
+CANCELED 52- Show meals with prices waiting to be approved in the admins page
+CANCELED 54- Add photos to meals
+CANCELED 55- Add "Order is expected to be closed at 12:00" (user field)
+CANCELED 60- Enable order system to have browser's width.
+CANCELED 62- Send message with summary after order is closed.
+CANCELED 65- Notify users in an order before the order is closed by X mins.
+CANCELED 67- Accumulate the difference of rounding delivery cache.
+CANCELED 73- Count times users have managed orders and the order system should choose the least one who managed orders to manage the new order.
+CANCELED 78- Unpost posted transactions when reopening orders.
+11- Allow for different sizes and combos
+14- Add ratings to meals
+18- Put time out in orders
+21- Consider additions(extras) in menus
+39- Centeralize code of delete, hide, and close in index.php
+44- Add option to allow voting instead of choosing the shop directly when creating a new order.
+50- Change the date of latest updates to menus and make it per meal
+59- Finish Welcome page.
+79- Automate order closing and printing.
+83- Add option for owner to recalculate balances from transactions.
+84- Enhance the view of transactions in options page.
+85- Make some nice advertisement to encourage people to charge their balances.
+86- Add order requests and discussions.
+87- Add themes to order system.
+89- Make user profile page and let the user change his data.
+90- Add emails to user data. 
+91- Send notifications of new orders by mail.

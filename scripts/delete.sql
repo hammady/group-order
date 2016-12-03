@@ -1,0 +1,13 @@
+delete from order_meal where id<1000000;
+delete from trans where id<1000000;
+delete from foodorder where id<1000;
+delete from meal where id <100000;
+delete from poll_vote where id < 10000000;
+delete from poll_option where id < 1000000;
+delete from poll_discuss where id < 1000000;
+delete from poll where id < 1000000;
+delete from user where id<300;
+delete from menu where id<10000;
+delete from cnfg where default_shop_id = 22;
+delete from shop where id<10000;
+insert into user values (1,'alaa',password('ejada'),'Alaa ElDin Farouk','1','g','O',200,'Y','Y',0,null);
